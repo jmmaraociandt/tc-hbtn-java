@@ -15,3 +15,5 @@ Project 08: Class relationships
 Project 09: Overriding and overloading
 
 Project 10: Decision and repetition structures
+
+Project 11: Exceptions handling
