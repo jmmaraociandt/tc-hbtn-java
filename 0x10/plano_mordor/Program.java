@@ -1,4 +1,3 @@
-import humor.*;
 import comida.*;
 
 public class Program {
