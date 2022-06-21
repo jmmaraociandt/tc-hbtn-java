@@ -1,4 +1,4 @@
-import week03.project09.plano_mordor.comida.*;
+import comida.*;
 
 public class Program {
     public static void main(String[] args) {

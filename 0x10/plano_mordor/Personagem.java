@@ -1,5 +1,5 @@
-import week03.project09.plano_mordor.comida.Comida;
-import week03.project09.plano_mordor.humor.*;
+import comida.Comida;
+import humor.*;
 
 public class Personagem {
     private int pontosDeFelicidade;
@@ -7,9 +7,9 @@ public class Personagem {
     public Humor obterHumorAtual() {
         if (pontosDeFelicidade < -5)
             return new Irritado();
-        else if (pontosDeFelicidade < 0)
+        else if (pontosDeFelicidade <= 0)
             return new Triste();
-        else if (pontosDeFelicidade < 15)
+        else if (pontosDeFelicidade <= 15)
             return new Feliz();
         else
             return new MuitoFeliz();
