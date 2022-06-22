@@ -17,3 +17,5 @@ Project 09: Overriding and overloading
 Project 10: Decision and repetition structures
 
 Project 11: Exceptions handling
+
+Project 12: Packages and inheritance
