@@ -1,4 +1,4 @@
-package week03.project13.livraria.exceptions;
+package exceptions;
 
 public class LivroInvalidoException extends Exception {
     public LivroInvalidoException(String message) {
