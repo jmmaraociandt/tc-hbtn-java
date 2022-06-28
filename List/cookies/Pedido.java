@@ -5,11 +5,11 @@ public class Pedido {
     private List<PedidoCookie> cookies;
 
     public Pedido() {
-        cookies = new ArrayList<>();
+        this.cookies = new ArrayList<>();
     }
 
     public void adicionarPedidoCookie(PedidoCookie orderedCookie) {
-        cookies.add(orderedCookie);
+        this.cookies.add(orderedCookie);
     }
 
     public int obterTotalCaixas() {
@@ -26,9 +26,5 @@ public class Pedido {
             }
         }
         return totalBoxRemoved;
-    }
-
-    public List<PedidoCookie> getCookies() {
-        return cookies;
     }
 }
