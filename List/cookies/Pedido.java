@@ -27,4 +27,8 @@ public class Pedido {
         }
         return totalBoxRemoved;
     }
+
+    public List<PedidoCookie> getCookies() {
+        return cookies;
+    }
 }
