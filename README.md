@@ -23,3 +23,5 @@ Project 12: Packages and inheritance
 Project 13: Exceptions handling (part 2)
 
 Project 14: Inheritance (pratical tasks)
+
+Project 15: Collections (list)
