@@ -25,3 +25,5 @@ Project 13: Exceptions handling (part 2)
 Project 14: Inheritance (pratical tasks)
 
 Project 15: Collections (list)
+
+Project 16: Collections (set and map)
