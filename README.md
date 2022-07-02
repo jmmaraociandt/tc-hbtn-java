@@ -29,3 +29,5 @@ Project 15: Collections (list)
 Project 16: Collections (set and map)
 
 Project 17: Collections (pratical tasks)
+
+Project 18: Enum
