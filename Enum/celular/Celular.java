@@ -2,10 +2,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Celular {
-    private List<Contato> contacts;
+    private ArrayList<Contato> contacts;
 
     public Celular() {
-        this.contacts = new ArrayList<Contato>();
+        this.contacts = new ArrayList<>();
     }
 
     public int obterPosicaoContato(String name) {
