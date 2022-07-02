@@ -5,7 +5,7 @@ public class Celular {
     private List<Contato> contacts;
 
     public Celular() {
-        this.contacts = new ArrayList<>();
+        this.contacts = new ArrayList<Contato>();
     }
 
     public int obterPosicaoContato(String name) {
