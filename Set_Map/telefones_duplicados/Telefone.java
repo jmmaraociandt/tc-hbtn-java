@@ -19,7 +19,10 @@ public class Telefone {
 
     @Override
     public int hashCode() {
-        return Objects.hash(codigoArea, numero);
+        int hash = 7;
+        hash = 31 * hash + Objects.hashCode(this.codigoArea);
+        hash = 31 * hash + Objects.hashCode(this.numero);
+        return hash;
     }
 
     @Override
