@@ -1,10 +1,9 @@
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.List;
 
 public class Banco {
     private String nome;
-    private List<Agencia> agencias;
+    private ArrayList<Agencia> agencias;
 
     public Banco(String nome) {
         this.nome = nome;

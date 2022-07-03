@@ -1,10 +1,9 @@
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.List;
 
 public class Agencia {
     private String nome;
-    private List<Cliente> clientes;
+    private ArrayList<Cliente> clientes;
 
     public Agencia(String nome) {
         this.nome = nome;
@@ -15,7 +14,7 @@ public class Agencia {
         return nome;
     }
 
-    public List<Cliente> getClientes() {
+    public ArrayList<Cliente> getClientes() {
         return clientes;
     }
 
