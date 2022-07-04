@@ -33,3 +33,5 @@ Project 17: Collections (pratical tasks)
 Project 18: Enum
 
 Project 19: Interfaces
+
+Project 20: Interfaces (pratical tasks)
