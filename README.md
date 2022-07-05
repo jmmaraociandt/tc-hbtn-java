@@ -35,3 +35,5 @@ Project 18: Enum
 Project 19: Interfaces
 
 Project 20: Interfaces (pratical tasks)
+
+Project 21: Generics
