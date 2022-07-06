@@ -39,3 +39,5 @@ Project 20: Interfaces (pratical tasks)
 Project 21: Generics
 
 Project 22: Generics (pratical tasks)
+
+Project 23: Lambda expressions
