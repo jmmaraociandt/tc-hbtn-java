@@ -37,3 +37,5 @@ Project 19: Interfaces
 Project 20: Interfaces (pratical tasks)
 
 Project 21: Generics
+
+Project 22: Generics (pratical tasks)
