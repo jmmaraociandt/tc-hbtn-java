@@ -41,3 +41,5 @@ Project 21: Generics
 Project 22: Generics (pratical tasks)
 
 Project 23: Lambda expressions
+
+Project 24: Lambda expressions (pratical tasks)
