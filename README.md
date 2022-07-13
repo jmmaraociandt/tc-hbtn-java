@@ -45,3 +45,5 @@ Project 23: Lambda expressions
 Project 24: Lambda expressions (pratical tasks)
 
 Project 25: Streams, Collectos and Optional
+
+Project 26: Streams, Collectos and Optional (pratical tasks)
