@@ -30,7 +30,7 @@ public class SerializarEstudantes<Estudante> {
             objectInputStream.close();
             return students;
         } catch (IOException | ClassNotFoundException e) {
-            System.out.println("Nao foi possivel serializar");
+            System.out.println("Nao foi possivel desserializar");
         }
         return students;
     }
