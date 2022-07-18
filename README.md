@@ -49,3 +49,5 @@ Project 25: Streams, Collectos and Optional
 Project 26: Streams, Collectos and Optional (pratical tasks)
 
 Project 27: Serialization
+
+Project 28: Apache Maven
