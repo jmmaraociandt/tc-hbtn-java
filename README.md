@@ -51,3 +51,5 @@ Project 26: Streams, Collectos and Optional (pratical tasks)
 Project 27: Serialization
 
 Project 28: Apache Maven
+
+Project 29: Clean code principles
